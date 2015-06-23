@@ -1,0 +1,22 @@
+{
+  "name": "adapt-test-plugin",
+  "version": "0.0.0",
+  "description": "My first adapt plugin test",
+  "main": "/js/adapt-test-plugin.js",
+  "keywords": [
+    "adapt-component"
+  ],
+  "authors": [
+    "P.Whitelow"
+  ],
+  "license": "GPLv3",
+  "homepage": "https://github.com/pwhitel/adapt-test-plugin",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
